@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Aashan Khan Swati 👋
 
-<!--
-**aashankhan2981/aashankhan2981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer | Problem Solver | Tech Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technologies & Tools
+
+- **Frontend**: React, Next.js, Three.js, React Three Fiber, GSAP
+- **Backend**: Node.js, Express.js, SQL, Mongoose
+- **Mobile Development**: React Native
+- **Others**: Redux, GraphQL, Docker, AWS
+
+---
+
+### 📫 Contact
+
+- Email: [aashankhan2981@gmail.com](mailto:aashankhan2981@gmail.com)
+- LinkedIn: [Aashan Khan](linkedin.com/in/aashan-khan-859654205)
+
+

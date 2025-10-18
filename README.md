@@ -1,6 +1,6 @@
 # Aashan Khan Swati
 
-**Experienced Full Stack Developer | Problem Solver | Tech Enthusiast**
+**Full Stack Developer | Co-Founder at TechTribe**
 
 ---
 

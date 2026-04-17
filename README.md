@@ -19,7 +19,7 @@
 
 ### 🏆 Professional Experience
 
-With over 3 years of experience as a full stack developer, I have a proven track record of delivering high-quality, scalable solutions. My expertise spans a range of technologies, including advanced frontend frameworks and robust backend architectures.
+With over 6 years of experience as a full stack developer, I have a proven track record of delivering high-quality, scalable solutions. My expertise spans a range of technologies, including advanced frontend frameworks and robust backend architectures.
 
 I am adept at solving complex problems and continuously improving systems to meet dynamic needs. My experience includes building and maintaining applications, both web and mobile, while ensuring high performance and user satisfaction.
 
